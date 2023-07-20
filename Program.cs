@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Введите ваше имя ");
-string username = Console.ReadLine();
-Console.WriteLine("Привет, ");
-Console.WriteLine(username);
+﻿int numberA = 31;
+int numberB = 5;
+int result  = numberA + numberB;
+Console.WriteLine(result);
